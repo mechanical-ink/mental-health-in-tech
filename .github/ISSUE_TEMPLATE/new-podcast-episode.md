@@ -17,11 +17,12 @@ Below are all the steps that need to be followed when planning, recording, produ
 - [ ] Record episode
 - [ ] Download and save all assets after the recording
 - [ ] Generate initial shorts using Riverside tools
-- [ ] Start to promote on social media using shorts
+- [ ] YouTube thumbnails for short
+- [ ] Promote on social media using shorts
 - [ ] Create audio clips for transcript
 - [ ] Generate transcript using Whisper on HuggingFace, create, and save transcript document as PDF
 - [ ] Generate show notes using the preprepared prompt using Cluade and the uploaded PDF
-- [ ] Create artwork for the episode, YouTube thumbnails for short, chapter clips, and general YouTube thumbnails.
+- [ ] Create artwork for the episode and YouTube thumbnail.
 - [ ] Produce episode
 - [ ] Note down chapter timestamps for audio clips and YouTube
 - [ ] Create chapter clips aka pulse points
